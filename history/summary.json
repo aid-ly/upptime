@@ -4,17 +4,19 @@
     "url": "https://aid-ly.org",
     "icon": "https://icons.duckduckgo.com/ip3/aid-ly.org.ico",
     "slug": "aid-ly",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 674,
-    "timeDay": 960,
-    "timeWeek": 736,
-    "timeMonth": 672,
-    "timeYear": 674,
-    "dailyMinutesDown": {}
+    "time": 673,
+    "timeDay": 800,
+    "timeWeek": 724,
+    "timeMonth": 671,
+    "timeYear": 673,
+    "dailyMinutesDown": {
+      "2025-04-05": 0
+    }
   }
 ]
