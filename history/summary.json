@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/aid-ly.org.ico",
     "slug": "aid-ly",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.96%",
-    "time": 690,
-    "timeDay": 691,
-    "timeWeek": 721,
-    "timeMonth": 713,
-    "timeYear": 690,
+    "uptimeYear": "99.97%",
+    "time": 692,
+    "timeDay": 851,
+    "timeWeek": 720,
+    "timeMonth": 719,
+    "timeYear": 692,
     "dailyMinutesDown": {
       "2025-04-05": 31
     }
