@@ -4,6 +4,12 @@ repo: upptime
 sites:
   - name: Aid-Ly
     url: https://aid-ly.org
+  - name: Url Shortener
+    url: https://link.aid-ly.org
+  - name: Watchtower
+    url: https://watchtower.aid-ly.org
+    expectedStatusCodes:
+      - 401
 
 status-website:
   cname: upptime.aid-ly.org
