@@ -45,17 +45,19 @@
     "url": "https://watchtower.aid-ly.org",
     "icon": "https://icons.duckduckgo.com/ip3/watchtower.aid-ly.org.ico",
     "slug": "watchtower",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 608,
-    "timeDay": 752,
-    "timeWeek": 595,
-    "timeMonth": 608,
-    "timeYear": 608,
-    "dailyMinutesDown": {}
+    "time": 606,
+    "timeDay": 668,
+    "timeWeek": 594,
+    "timeMonth": 606,
+    "timeYear": 606,
+    "dailyMinutesDown": {
+      "2025-08-27": 0
+    }
   }
 ]
