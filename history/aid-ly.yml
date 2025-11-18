@@ -1,7 +1,7 @@
 url: https://aid-ly.org
-status: up
-code: 200
-responseTime: 1067
-lastUpdated: 2025-11-17T23:18:56.932Z
+status: down
+code: 500
+responseTime: 299
+lastUpdated: 2025-11-18T11:41:09.136Z
 startTime: 2025-03-02T14:23:07.726Z
 generator: Upptime <https://github.com/upptime/upptime>
