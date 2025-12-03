@@ -51,7 +51,7 @@
     "url": "https://watchtower.aid-ly.org",
     "icon": "https://icons.duckduckgo.com/ip3/watchtower.aid-ly.org.ico",
     "slug": "watchtower",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
